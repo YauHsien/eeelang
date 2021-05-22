@@ -1,0 +1,1 @@
+-type cell_number() :: segmented_numeric_letters().
